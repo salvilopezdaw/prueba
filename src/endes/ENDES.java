@@ -20,6 +20,7 @@ public class ENDES {
         
         //ESCRIBE AQUI TU NOMBRE
         System.out.println("Salvador Sierra López");
+        System.out.println("25");
     }
 
 }
